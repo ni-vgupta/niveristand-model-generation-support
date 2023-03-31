@@ -1,4 +1,4 @@
-# VeriStand Model Generation Support
+# VeriStand Model Generation Support..
 
 Use VeriStand Model Generation Support to create VeriStand compatible models within the MathWorks Simulink® environment.
 
